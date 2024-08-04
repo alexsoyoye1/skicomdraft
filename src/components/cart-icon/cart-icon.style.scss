@@ -1,0 +1,25 @@
+.cart-icon-container {
+  width: 65px;
+  height: 65px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+
+  .shopping-icon {
+    width: 44px;
+    height: 44px;
+  }
+
+  .item-count {
+    position: absolute;
+    font-size: 16px;
+    font-weight: bold;
+    bottom: 15px;
+  }
+  &:hover {
+    filter: brightness(0) saturate(100%) invert(77%) sepia(22%) saturate(301%)
+      hue-rotate(159deg) brightness(105%) contrast(102%);
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Acer Aspire 5 Slim Laptop",
+    "imageUrl": "https://i.ibb.co/sKdC9Mz/Acer5.jpg",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "name": "ASUS VivoBook Thin and Light Laptop",
+    "imageUrl": "https://i.ibb.co/8XWPRb0/asus.png",
+    "price": 18
+  },
+  {
+    "id": 3,
+    "name": "Apple iPhone 11 Pro Max",
+    "imageUrl": "https://i.ibb.co/SdJ17C0/iphone11.jpg",
+    "price": 35
+  },
+  {
+    "id": 4,
+    "name": "Apple iPhone XR",
+    "imageUrl": "https://i.ibb.co/1bVkGTn/iphonexr.jpg",
+    "price": 25
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy S22",
+    "imageUrl": "https://i.ibb.co/TRyM0x5/samsungs22.jpg",
+    "price": 18
+  },
+  {
+    "id": 6,
+    "name": "Apple iPad",
+    "imageUrl": "https://i.ibb.co/rsQfLJy/ipad.jpg",
+    "price": 14
+  },
+  {
+    "id": 7,
+    "name": "Apple iPad Mini",
+    "imageUrl": "https://i.ibb.co/4WZp3Ck/ipadmini.jpg",
+    "price": 18
+  },
+  {
+    "id": 8,
+    "name": "Panasonic Headphones",
+    "imageUrl": "https://i.ibb.co/xDM1w6G/panasonicheadphones.jpg",
+    "price": 14
+  },
+  {
+    "id": 9,
+    "name": "MX Master 2S Wireless Mouse",
+    "imageUrl": "https://i.ibb.co/3rBHL0W/mx-master.png",
+    "price": 16
+  }
+]
